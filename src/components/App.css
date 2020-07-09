@@ -1,0 +1,11 @@
+body{
+    font-family:  'Open Sans Condensed';
+    padding: 20px 60px
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ * {                             /* where * is the universal selector it means u can target any on */
+    box-sizing: border-box;
+}
